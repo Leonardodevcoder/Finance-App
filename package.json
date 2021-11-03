@@ -15,7 +15,7 @@
     "@react-navigation/drawer": "^5.12.9",
     "@react-navigation/native": "^5.9.8",
     "@react-navigation/stack": "^5.14.9",
-    "firebase": "^8.8.1",
+    "firebase": "^8.10.0",
     "module_name": "^1.0.0",
     "react": "17.0.2",
     "react-native": "0.66.1",

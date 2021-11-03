@@ -31,7 +31,7 @@ export default function SignIn() {
           autoCapitalize="none"
           value={nome}
           onChangeText={ (text) => setNome(text) }
-        />
+          />
         </AreaInput>
 
         <AreaInput>

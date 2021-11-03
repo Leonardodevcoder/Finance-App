@@ -1,8 +1,9 @@
 import 'react-native-gesture-handler';
 import React from 'react';
 import { NavigationContainer } from '@react-navigation/native';
-import { StatusBar } from 'react-native';
-import firebase from './src/services/firebaseConnection';
+import { View, StatusBar } from 'react-native';
+
+console.disableYellowBox=true;
 
 import AuthProvider from './src/contexts/auth';
 
